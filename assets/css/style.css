@@ -1070,3 +1070,9 @@ section .container {
     transform: translateX(-50%);
   }
 }
+.facebook-2{
+  margin-left: 12px;
+  font-size: 26px;
+  color: rgba(255, 255, 255, 0.301) ; 
+  text-decoration: none; 
+}
